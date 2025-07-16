@@ -76,7 +76,7 @@ This dashboard helps in:
 ---
 
 ## 📎 Screenshot
-blob:https://web.whatsapp.com/be5edef9-53f5-491e-ae13-9c8af8408848
+![image alt](https://github.com/VaibhavMttl21/instagramdashboard/blob/main/dashboard.jpeg?raw=true)
 
 ---
 
